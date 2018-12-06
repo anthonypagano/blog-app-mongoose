@@ -1,7 +1,6 @@
 {
   "name": "blog-app-mongoose",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -20,5 +19,14 @@
     "chai-http": "^4.0.0",
     "faker": "^4.1.0",
     "mocha": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonypagano/blog-app-mongoose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonypagano/blog-app-mongoose/issues"
+  },
+  "homepage": "https://github.com/anthonypagano/blog-app-mongoose#readme",
+  "description": ""
 }
